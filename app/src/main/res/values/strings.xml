@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Fin Tech App</string>
+    <string name="option_words">Words</string>
+    <string name="option_separators">Separators</string>
+    <string name="label_mode">Mode</string>
+    <string name="button_process">Process</string>
+    <string name="label_input_text">Text...</string>
+    <string name="result_prefix">Result: %1$d</string>
+    <string name="error_empty_input">Text field cannot be empty</string>
 </resources>
