@@ -1,10 +1,17 @@
 <resources>
     <string name="app_name">Fin Tech App</string>
-    <string name="option_words">Words</string>
-    <string name="option_separators">Separators</string>
-    <string name="label_mode">Mode</string>
-    <string name="button_process">Process</string>
-    <string name="label_input_text">Text...</string>
-    <string name="result_prefix">Result: %1$d</string>
-    <string name="error_empty_input">Text field cannot be empty</string>
+    <string name="activity_notes">Notes</string>
+    <string name="activity_add_note">New Note</string>
+    <string name="activity_delete_note">Delete Note</string>
+    <string name="button_add_note">Add Note</string>
+    <string name="button_delete_notes">Delete Notes</string>
+    <string name="button_save_note">Save Note</string>
+    <string name="button_discard">Discard</string>
+    <string name="button_delete">Delete</string>
+    <string name="label_note_title">Title</string>
+    <string name="label_note_content">Content</string>
+    <string name="label_select_note">Select note</string>
+    <string name="no_notes">No notes yet</string>
+    <string name="error_empty_title">Note title cannot be empty</string>
+    <string name="error_empty_content">Note content cannot be empty</string>
 </resources>
